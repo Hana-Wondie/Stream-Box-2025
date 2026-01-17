@@ -6,11 +6,6 @@ import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 function Header() {
   return (
     <>
-      <p style="color:red; font-weight:bold;">
-        This is an educational demo project. No real login. Not affiliated with
-        Netflix.
-      </p>
-
       <div className="commonContainer">
         <div className="innerContainer">
           <div className="leftDiv">
